@@ -1,0 +1,26 @@
+{
+  "name": "meatbot",
+  "version": "1.0.0",
+  "description": "bot to avoid meetings ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBdevelop/meatBotMSFT.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "robert balderas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RBdevelop/meatBotMSFT/issues"
+  },
+  "homepage": "https://github.com/RBdevelop/meatBotMSFT#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
